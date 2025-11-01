@@ -3,6 +3,11 @@
 A fun and simple **Discord bot** built using **Python** and the [meme-api](https://meme-api.com) that fetches and sends random meme images directly into your Discord server when you type `$meme`.
 
 ---
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![Discord.py](https://img.shields.io/badge/discord.py-latest-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+
+---
 
 ## 🚀 Features
 - Sends **fresh memes** from the internet using the Meme API  
